@@ -1,5 +1,6 @@
 # Image Processing with KYT-U200-330M2812V3 (High Speed USB Camera, Sensor Omnivision OV4689)
 
+![cameraIMG](https://res.cloudinary.com/jaacker25/image/upload/v1587737396/camera_g3oleg.png)
 
 ## Technologies
 
